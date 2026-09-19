@@ -19,16 +19,7 @@ I am solving DSA problems regularly and documenting my solutions here.
 ### Progress
 **Day 01** — Two Sum ✅  
 **Day 02** — Palindrome Number ✅
-**Day 03** —    ✅
-**Day 04** —    ✅
-**Day 05** —    ✅
-**Day 06** —    ✅
-**Day 07** —    ✅
-**Day 08** —    ✅
-**Day 09** —    ✅
-**Day 10** —    ✅
-**Day 11** —    ✅
-**Day 12** —    ✅
+
 
 **Current Progress: 2 / 100 Days**
 
