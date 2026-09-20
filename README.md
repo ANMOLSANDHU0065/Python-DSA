@@ -23,9 +23,10 @@ I am solving DSA problems regularly and documenting my solutions here.
 
 **Day 03** — Roman-To-Integer ✅
 
+**Day 04** — Reverse Degree Of A String ✅
 
 
-**Current Progress: 3 / 100 Days**
+**Current Progress: 4 / 100 Days**
 
 
 ## 📌 Approach
