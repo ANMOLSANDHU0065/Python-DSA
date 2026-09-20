@@ -18,8 +18,11 @@ I am solving DSA problems regularly and documenting my solutions here.
 
 ### Progress
 **Day 01** — Two Sum ✅  
+
 **Day 02** — Palindrome Number ✅
-**Day 03** — Roman-To-Integer
+
+**Day 03** — Roman-To-Integer ✅
+
 
 
 **Current Progress: 3 / 100 Days**
