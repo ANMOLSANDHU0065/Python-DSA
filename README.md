@@ -25,8 +25,11 @@ I am solving DSA problems regularly and documenting my solutions here.
 
 **Day 04** — Reverse Degree Of A String ✅
 
+**Day 05** — Find x Value Of Array i ✅
 
-**Current Progress: 4 / 100 Days**
+
+
+**Current Progress: 5 / 100 Days**
 
 
 ## 📌 Approach
