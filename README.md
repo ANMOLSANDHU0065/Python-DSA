@@ -27,9 +27,12 @@ I am solving DSA problems regularly and documenting my solutions here.
 
 **Day 05** — Find x Value Of Array i ✅
 
+**Day 06** — Longest Common Prefix ✅
 
 
-**Current Progress: 5 / 100 Days**
+
+
+**Current Progress: 6 / 100 Days**
 
 
 ## 📌 Approach
