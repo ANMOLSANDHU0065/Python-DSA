@@ -29,10 +29,12 @@ I am solving DSA problems regularly and documenting my solutions here.
 
 **Day 06** — Longest Common Prefix ✅
 
+**Day 07** — Minimum Operations To Reduce x To Zero ✅
 
 
 
-**Current Progress: 6 / 100 Days**
+
+**Current Progress: 7 / 100 Days**
 
 
 ## 📌 Approach
