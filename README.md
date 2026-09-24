@@ -31,10 +31,12 @@ I am solving DSA problems regularly and documenting my solutions here.
 
 **Day 07** — Minimum Operations To Reduce x To Zero ✅
 
+**Day 08** — Smallest Index With Digit Sum Equal to Index ✅
 
 
 
-**Current Progress: 7 / 100 Days**
+
+**Current Progress: 8 / 100 Days**
 
 
 ## 📌 Approach
