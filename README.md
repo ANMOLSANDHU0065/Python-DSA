@@ -33,10 +33,11 @@ I am solving DSA problems regularly and documenting my solutions here.
 
 **Day 08** — Smallest Index With Digit Sum Equal to Index ✅
 
+**Day 09** — Finding Mising Elements ✅
 
 
 
-**Current Progress: 8 / 100 Days**
+**Current Progress: 9 / 100 Days**
 
 
 ## 📌 Approach
@@ -53,7 +54,7 @@ For each problem, I focus on:
 
 The goal of this challenge is not just to increase the number of problems solved, but to develop better **problem-solving ability, logical thinking, and DSA fundamentals** through consistent practice.
 
-**Started:** 18 September 2026  
+**Started:** 17 September 2026  
 **Challenge:** 100 Days of DSA with Python
 - **Language:** Python
 - **Platform:** LeetCode
