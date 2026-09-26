@@ -35,9 +35,10 @@ I am solving DSA problems regularly and documenting my solutions here.
 
 **Day 09** — Finding Mising Elements ✅
 
+**Day 10** — Merge Two Sorted Lists ✅
 
 
-**Current Progress: 9 / 100 Days**
+**Current Progress: 10 / 100 Days**
 
 
 ## 📌 Approach
