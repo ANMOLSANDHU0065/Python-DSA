@@ -37,8 +37,10 @@ I am solving DSA problems regularly and documenting my solutions here.
 
 **Day 10** — Merge Two Sorted Lists ✅
 
+**Day 11** — Merge Sorted Array ✅
 
-**Current Progress: 10 / 100 Days**
+
+**Current Progress: 11 / 100 Days**
 
 
 ## 📌 Approach
