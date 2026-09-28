@@ -39,8 +39,10 @@ I am solving DSA problems regularly and documenting my solutions here.
 
 **Day 11** — Merge Sorted Array ✅
 
+**Day 12** — Convert Sorted Array to Binary Search Tree ✅
 
-**Current Progress: 11 / 100 Days**
+
+**Current Progress: 12 / 100 Days**
 
 
 ## 📌 Approach
