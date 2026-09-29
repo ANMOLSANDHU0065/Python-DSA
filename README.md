@@ -41,8 +41,10 @@ I am solving DSA problems regularly and documenting my solutions here.
 
 **Day 12** — Convert Sorted Array to Binary Search Tree ✅
 
+**Day 13** — Reverse Integer ✅
 
-**Current Progress: 12 / 100 Days**
+
+**Current Progress: 13 / 100 Days**
 
 
 ## 📌 Approach
