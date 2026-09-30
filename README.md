@@ -43,8 +43,10 @@ I am solving DSA problems regularly and documenting my solutions here.
 
 **Day 13** — Reverse Integer ✅
 
+**Day 14** — Sort An Array ✅
 
-**Current Progress: 13 / 100 Days**
+
+**Current Progress: 14 / 100 Days**
 
 
 ## 📌 Approach
