@@ -46,7 +46,7 @@ I am solving DSA problems regularly and documenting my solutions here.
 **Day 14** — Sort An Array ✅
 
 
-**Current Progress: 14 / 100 Days**
+**Current Progress: 15 / 100 Days**
 
 
 ## 📌 Approach
